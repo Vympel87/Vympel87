@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack-Jamstack, i'm currently studying in University of Gadjah Madha, majoring in software engineering technology</h3>
 <img align="right" alt"Coding" width="300" src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif">
 
-- 🌱 I’m currently learning **React Js and Machine Learning**
+- 🌱 I’m currently learning **React Js, GoLang, and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vympel87](https://github.com/Vympel87)
 

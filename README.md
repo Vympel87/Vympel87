@@ -106,12 +106,9 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
-
-## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Vympel87&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vympel87&hide_border=true&layout=compact" align="center" /></div>  

@@ -5,7 +5,7 @@
 <img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" align="center" style="width: 500px" />
 </div>  
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently studying on [Gadjah Mada University](https://ugm.ac.id/id/)  
   
 
 - 🌱 I’m currently learning Cloud Computing and Web3  

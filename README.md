@@ -2,7 +2,7 @@
 ### <div align="center">A passionate Backend Developer, majoring in software engineering technology</div>
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" align="center" style="width: 500%" />
+<img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" align="center" style="width: 500px" />
 </div>  
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  

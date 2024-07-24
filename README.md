@@ -1,7 +1,7 @@
-### <div align="center">Hi 👋, I'm Yudhistira Rafazaky Bandono. A passionate Backend Developer, i'm currently studying in University of Gadjah Madha, majoring in software engineering technology</div>  
+### <div align="center">Hi 👋, I'm Yudhistira Rafazaky Bandono. A passionate Backend Developer.</div>  
 
 <div align="center">
-<img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" align="center" style="width: 300px" />
+<img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" align="center" style="width: 500px" />
 </div>  
   
 

@@ -1,12 +1,11 @@
+### <div align="center">Hi 👋, I'm Yudhistira Rafazaky Bandono. A passionate Backend Developer, i'm currently studying in University of Gadjah Madha, majoring in software engineering technology</div>  
+
 <div align="center">
-<img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" align="center" style="width: 300px" />
 </div>  
   
 
-### <div align="center">Hi 👋, I'm Yudhistira Rafazaky Bandono. A passionate Backend Developer, i'm currently studying in University of Gadjah Madha, majoring in software engineering technology</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [University of Gadjah Mada](https://ugm.ac.id/id/)  
   
 
 - 🌱 I’m currently learning Cloud Computing and Web3  
@@ -78,6 +77,7 @@
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
 </div>  
 
@@ -129,3 +129,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Vympel87&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vympel87&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Vympel87&&style=flat-square" align="center" />
+</div>

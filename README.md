@@ -1,21 +1,19 @@
 ## <div align="center">Hi 👋, I'm Yudhistira Rafazaky Bandono.y</div>
 ### <div align="center">A passionate Backend Developer, majoring in software engineering technology</div>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" style="width: 250px;" />
-    </td>
-    <td>
-      <ul>
-        <li>🔭 I’m currently studied at <a href="https://ugm.ac.id/id/">Gadjah Mada University</a></li>
-        <li>🌱 I’m currently learning Cloud Computing and Web3</li>
-        <li>📄 My current portfolio website <a href="https://rafazack.vercel.app/">My Portfolio Website</a></li>
-        <li>⚡ Fun fact: I eat fried rice every day</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" style="width: 300px; margin-right: 20px;" />
+  </div>
+  <div>
+    <ul>
+      <li>🔭 I’m currently studied at <a href="https://ugm.ac.id/id/">Gadjah Mada University</a></li>
+      <li>🌱 I’m currently learning Cloud Computing and Web3</li>
+      <li>📄 My current portfolio website <a href="https://rafazack.vercel.app/">My Portfolio Website</a></li>
+      <li>⚡ Fun fact: I eat fried rice every day</li>
+    </ul>
+  </div>
+</div>
 
 <br/>
 
